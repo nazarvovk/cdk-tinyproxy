@@ -6,6 +6,10 @@
     "email": "nazar@nvovk.com",
     "url": "https://nvovk.com/"
   },
+  "repository": {
+    "url": "https://github.com/nazarvovk/cdk-tinyproxy"
+  },
+  "main": "lib/cdk-tinyproxy.js",
   "license": "MIT",
   "keywords": [
     "proxy",
